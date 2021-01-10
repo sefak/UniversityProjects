@@ -1,0 +1,5 @@
+Eigenvalue#1: 6
+0.999998
+1
+5.84536e-065
+Eigenvalue#2: 5
