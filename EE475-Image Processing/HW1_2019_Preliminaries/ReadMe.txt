@@ -1,0 +1,1 @@
+In order to reproduce the results, HW1.m file should be opened with MATLAB. And there are seperate sections for each part of the questions. For each section, crtl+enter can be used to run the current section to reproduce the result.
