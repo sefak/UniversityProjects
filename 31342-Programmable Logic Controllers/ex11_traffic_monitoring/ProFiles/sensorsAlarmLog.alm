@@ -1,0 +1,2 @@
+1557243524;56324973;07-05-2019;03:38:44;INTO;PLC_PRG.APS4;DIG=1;;;;    1.00;DEFAULT;0;Pedestrian sensor 4 is high more than 1 min.;
+1557243580;56380437;07-05-2019;03:39:40;INTO;PLC_PRG.ACS1;DIG=1;;;;    1.00;DEFAULT;0;Car sensor 1 is high more than 1 min.;
