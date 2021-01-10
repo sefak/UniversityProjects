@@ -1,0 +1,10 @@
+//	for(i=0; i<s; i++){
+//		for(j=0; j<s; j++){
+//			cout<<mat_A[i][j]<<"  ";
+//		}cout<<"\n";
+//	}cout<<"\n";
+//	
+//	for(i=0; i<s; i++){
+//		cout<<vec_b[i]<<" ";
+//	}cout<<"\n\n";
+
