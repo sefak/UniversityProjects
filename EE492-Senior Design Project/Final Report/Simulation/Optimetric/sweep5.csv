@@ -1,0 +1,13 @@
+*,$muscle_per,$match_per,circ_rad,circ_wid,port_gap,turn_z,muscle_dim,match_dim,match_wid,surface_dim
+1,50,1,0.7cm,0.1cm,0.1cm,0deg,4cm,5cm,0.5cm,1cm
+2,50,9,0.7cm,0.1cm,0.1cm,0deg,4cm,5cm,0.5cm,1cm
+3,50,17,0.7cm,0.1cm,0.1cm,0deg,4cm,5cm,0.5cm,1cm
+4,50,26,0.7cm,0.1cm,0.1cm,0deg,4cm,5cm,0.5cm,1cm
+5,50,34,0.7cm,0.1cm,0.1cm,0deg,4cm,5cm,0.5cm,1cm
+6,50,42,0.7cm,0.1cm,0.1cm,0deg,4cm,5cm,0.5cm,1cm
+7,20,1,0.7cm,0.1cm,0.1cm,0deg,4cm,5cm,1cm,1cm
+8,20,7,0.7cm,0.1cm,0.1cm,0deg,4cm,5cm,1cm,1cm
+9,20,14,0.7cm,0.1cm,0.1cm,0deg,4cm,5cm,1cm,1cm
+10,30,1,0.7cm,0.1cm,0.1cm,0deg,4cm,5cm,1cm,1cm
+11,30,8,0.7cm,0.1cm,0.1cm,0deg,4cm,5cm,1cm,1cm
+12,30,16,0.7cm,0.1cm,0.1cm,0deg,4cm,5cm,1cm,1cm

@@ -1,0 +1,42 @@
+[
+	{
+		"type": "raw",
+		"zo": 50,
+		"freq": 2410,
+		"er": 1,
+		"freq_unit": {
+			"unit": "MHz",
+			"multiplier": 1000000
+		},
+		"span": 0,
+		"span_unit": {
+			"unit": "MHz",
+			"multiplier": 1000000
+		}
+	},
+	{
+		"type": "bb",
+		"real": "1.68",
+		"imaginary": "-2.16",
+		"abs": 84,
+		"abs_bb_i": -108,
+		"unit": "null",
+		"line_length": 0
+	},
+	{
+		"type": "pc",
+		"real": "0.00",
+		"imaginary": "-6.60",
+		"abs": 0.2,
+		"unit": "pF",
+		"line_length": 0
+	},
+	{
+		"type": "si",
+		"real": "0.00",
+		"imaginary": "1.82",
+		"abs": 6,
+		"unit": "nH",
+		"line_length": 0
+	}
+]
